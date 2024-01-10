@@ -13,6 +13,7 @@ use Illuminate\Http\Request;
 |
 */
 
+
 /*Route::get('hello/{name}', function($name) {
     return "hello " . $name;
 });
